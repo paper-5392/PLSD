@@ -1,0 +1,5 @@
+pandas==0.23.0
+torch==1.2.0+cu92
+numpy==1.14.3
+pyod==0.7.4
+scikit_learn==0.19.1
